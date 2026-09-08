@@ -2,6 +2,6 @@
 #
 # Makefile for list implementation and test file.
 #
-# <Author>
+# <Jasmine Smithr>
 list: list.c main.c
 	gcc list.c main.c -o list
